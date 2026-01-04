@@ -581,17 +581,6 @@ docker restart qdrant
 - Check key validity on provider websites
 - Ensure no extra spaces or quotes
 
-## 📝 License
-
-[Add your license information here]
-
-## 🤝 Contributing
-
-[Add contribution guidelines here]
-
-## 📧 Contact
-
-[Add contact information here]
 
 ## 🙏 Acknowledgments
 
