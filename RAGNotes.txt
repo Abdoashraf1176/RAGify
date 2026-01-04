@@ -1,0 +1,17 @@
+###############RAGNotes###################3
+#############to_get_last_version############
+fastapi pypi
+
+(1)############
+###main is name of file
+----->>>>
+
+#####run fastapi in server
+------->>>uvicorn main:app --reload --host 0.0.0.0 --port 5000
+########## to install requrments ##################
+ pip install -r requirements.txt
+##############install pydantic-settings############333
+to make validation
+
+(2)################
+
